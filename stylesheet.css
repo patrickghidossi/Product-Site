@@ -1,0 +1,57 @@
+body{
+	background-color: #F0FFF7;
+}
+h1{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	padding: 20px;
+}
+
+h4{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	padding: 20px;
+}	
+
+}
+.navbar{
+	margin-bottom: 0px;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+}
+
+.row{
+	padding: 20px;
+}
+th{
+	color: DarkGreen;
+	font-weight: bold;
+}
+.row{
+	margin: 0px;
+	padding: 0px;
+}
+.col-md-6{
+	margin:0px;
+	padding: 0px;
+}
+img{
+	padding: 10px;
+	border-radius: 5%;
+}
+.btn-link{
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	margin: auto;
+}
+.dale {
+	float: left;
+	padding: 10px;
+}
+.col-sm-6{
+	padding-left:0;
+	padding-right:0;
+	
+}
